@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lachlan</h1>
-<h3 align="center">Second year computer science student and aspiring programmer stationed in Brisbane, Australia.</h3>
+<h3 align="center">Third Year Computer Science student and aspiring programmer stationed in Brisbane, Australia.</h3>
 
 - 🌱 I’m currently learning **Front End Web Development (CSS, HTML, Bootstrap)**
 
